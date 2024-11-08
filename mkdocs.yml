@@ -56,7 +56,7 @@ nav:
    - Code Docs:
        - Python: coding/my-first-python-file.md
    - About: 
-       - current projects: about/current-projects.md
+       - current projects: about/projects.md
        - About Me: about/about.md
        - Childhood: about/childhood.md
    - Tags: tags.md
