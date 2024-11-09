@@ -1,3 +1,4 @@
+
 # un po di cose riguardo me
 
 Sono Christian Fiore e sono uno studente che frequenta l'accademia di Belle Arti di Napoli.
