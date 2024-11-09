@@ -53,11 +53,11 @@ markdown_extensions:
 
 nav:
    - Home: index.md
-   - Code Docs:
+   - Codici:
        - Python: coding/my-first-python-file.md
-   - About: 
-       - Current projects: about/project.md
-       - About Me: about/about.md
-       - Childhood: about/childhood.md
+   - Su di me: 
+       - Diversi link: Su di me/project.md
+       - La mia storia: Su di me/about.md
+       - Cosa frequento: Su di me/childhood.md
    - Tags: tags.md
    - Blog: blog/index.md

@@ -1,8 +1,6 @@
 ---
 tags:
-  - #accademia 
-  - #università
-  - #esercizi
+  - università
 ---
 
 ...
