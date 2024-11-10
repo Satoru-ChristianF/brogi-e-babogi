@@ -14,3 +14,7 @@ Il corso intende formare generazioni di studenti che, con atteggiamento critico,
 
 ## Hobby
 Nelle giornate occupo gran parte del tempo frequentando l'università e nel tardo pomeriggio mi alleno; la sera invece ultimamente la sto passando sia per studiare, sia per ritoccare/aggiungere qualcosa su questo sito. Nei weekend invece mi concentro di più su me stesso uscendo con amici e facendo altro.
+
+## Passioni
+Come ho accennato negli hobby ho diverse passioni come la palestra, ma anche leggere, viaggi, disegni e grafiche tramite progettazioni.
+Sono anche un appassionato della cultura giapponese e dell'epoca storica medievale.

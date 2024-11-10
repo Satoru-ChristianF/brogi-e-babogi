@@ -1,6 +1,8 @@
-# Benvenuti sul mio sito 
+# Benvenuti sul mio sito !
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Qui troverete diverse informazioni e curiosità su di me.
+
+![alt text](<foto profilo.jpeg>)
 
 
 ## Project layout

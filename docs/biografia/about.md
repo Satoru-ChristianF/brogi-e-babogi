@@ -1,7 +1,7 @@
 
 ---
 
-![alt text](<foto profilo.jpeg>)as
+
 
 
 ---
