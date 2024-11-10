@@ -56,8 +56,8 @@ nav:
    - Codici:
        - Python: coding/my-first-python-file.md
    - Su di me: 
-       - Diversi link: Su di me/project.md
-       - La mia storia: Su di me/about.md
-       - Cosa frequento: Su di me/childhood.md
+       - Diversi link: biografia/project.md
+       - La mia storia: biografia/about.md
+       - Cosa frequento: biografia/childhood.md
    - Tags: tags.md
    - Blog: blog/index.md
