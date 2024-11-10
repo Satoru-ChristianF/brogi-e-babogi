@@ -1,5 +1,12 @@
 
-# Un po di cose riguardo me
+---
+
+![alt text](<foto profilo.jpeg>)as
+
+
+---
+
+# Qualcosa su di me
 
 Sono Christian Fiore e sono uno studente che frequenta l'accademia di Belle Arti di Napoli.
 Sono attualmente al secondo anno del corso "Nuove tecnologie dell'arte" e sto seguendo un compito assegnatomi dal maestro Antonio Grillo, docente di Teorie e tecniche dell'interazione;

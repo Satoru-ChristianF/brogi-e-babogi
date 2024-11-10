@@ -1,6 +1,6 @@
 site_name: "Kurisu's life"
 site_url: https://mydomain.org/mysite
-theme:
+theme: 
   name: material
   theme:
   palette: 
@@ -53,11 +53,11 @@ markdown_extensions:
 
 nav:
    - Home: index.md
+   - Biografia: 
+       - Qualcosa su di me: biografia/about.md
+       - Cosa frequento: biografia/childhood.md
+       - canali: biografia/project.md
    - Codici:
        - Python: coding/my-first-python-file.md
-   - Su di me: 
-       - Diversi link: biografia/project.md
-       - La mia storia: biografia/about.md
-       - Cosa frequento: biografia/childhood.md
    - Tags: tags.md
    - Blog: blog/index.md
