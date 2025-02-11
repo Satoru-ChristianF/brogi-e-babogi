@@ -9,11 +9,11 @@
 5/12/24
 
 Oggi è stato appena creato il primo gruppo riguardante questo progetto composto da:
--me;
--Fabio Maria Rotoloni;
--Gianluigi Albirico;
--MariaRosaria Mercolino;
--Rosy.
+- me;
+- Fabio Maria Rotoloni;
+- Gianluigi Albirico;
+- MariaRosaria Mercolino;
+- Rosy.
 Insieme abbiamo discusso del tema principale e i fini di questo.
 
 6/12/24
