@@ -8,7 +8,7 @@
 # Cosa ho fatto oggi
 5/12/24
 
-Oggi è stato appena creato il primo gruppo riguardante questo progetto composto da:
+Oggi è stato appena creato il primo gruppo riguardante questo progetto, composto da:
 - me;
 - Fabio Maria Rotoloni;
 - Gianluigi Albirico;
