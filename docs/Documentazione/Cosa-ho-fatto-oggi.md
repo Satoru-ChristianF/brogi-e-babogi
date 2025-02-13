@@ -38,3 +38,9 @@ Dopo molti confronti con vari gruppi abbiamo scelto di seguire la strda che rigu
 Magari attraverso anche un semplice gioco appunto "immersivo" dove avrà a che fare ovviamente con la piazza e come sfondo ci sarà la sua mappatura con tutti i viali. 
 Abbiamo provato vari programmi e cercato video che erano inerenti al progetto che stavamo trattando.
 Abbiamo sperimentato un po con la creazione di un videogioco semplice..era allo stesso tempo complicato e semplice.
+
+7/2/25
+Spostandomi tra i vari gruppi sono rimasto "attaccato" a un gruppo in particolare, ossia il gruppo Mappa, anche perchè in parte trattavano cose che per la maggior parte il nostro gruppo si interessava.
+Mi ha particolarmente colpito la creazione della mappa 3D della piazza con i palazzi fatti con la stampante 3D;
+Da li mi son venute delle idee vedendo già solo questo prototipo, ossia di far percorrere su questa mappa una macchinina con una telecamera su di essa in modo da farla girare per tutti i palazzi e gli elementi più simbolici.
+Ovviamente idea che era già stata sperimentata.
