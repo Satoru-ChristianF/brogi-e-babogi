@@ -44,3 +44,10 @@ Spostandomi tra i vari gruppi sono rimasto "attaccato" a un gruppo in particolar
 Mi ha particolarmente colpito la creazione della mappa 3D della piazza con i palazzi fatti con la stampante 3D;
 Da li mi son venute delle idee vedendo già solo questo prototipo, ossia di far percorrere su questa mappa una macchinina con una telecamera su di essa in modo da farla girare per tutti i palazzi e gli elementi più simbolici.
 Ovviamente idea che era già stata pensata.
+
+19/2/25
+Sono stati creati altri gruppi...di nuovo, per il progetto "Bella Piazza" legato a Garibaldi.
+Io faccio parte del gruppo "Superficie". Esso si occuperà delle parti legate ai cambiamenti della superficie attraverso varie tematiche.
+
+5/3"%
+Stiamo sperimentando diversi tipi di tecniche come frottage,micro e macro  e l'uomo vitruviano.
