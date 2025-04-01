@@ -49,5 +49,10 @@ Ovviamente idea che era già stata pensata.
 Sono stati creati altri gruppi...di nuovo, per il progetto "Bella Piazza" legato a Garibaldi.
 Io faccio parte del gruppo "Superficie". Esso si occuperà delle parti legate ai cambiamenti della superficie attraverso varie tematiche.
 
-5/3"%
+5/3/25
 Stiamo sperimentando diversi tipi di tecniche come frottage,micro e macro  e l'uomo vitruviano.
+
+1/4/25
+Con la creazione del nuovo gruppo "suono" stiamo sperimentando attraverso unreal engine una sorta di videogioco avente come soggetto la piazza ma con la caratteristica che ovunque ti giri c'è un suono proveniente da qualcosa;
+Ad esempio, il presunto personaggio che si muove per la piazza se ipotizziamo che mentre cammina si avvicina al campo da basket, si sentirà il suono della palla da basket ad esempio.
+Ovviamente varierà in base al raggio di distanza del suono.
