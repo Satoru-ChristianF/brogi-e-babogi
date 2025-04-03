@@ -46,7 +46,7 @@ Da li mi son venute delle idee vedendo già solo questo prototipo, ossia di far 
 Ovviamente idea che era già stata pensata.
 
 19/2/25
-Sono stati creati altri gruppi...di nuovo, per il progetto "Bella Piazza" legato a Garibaldi.
+Sono stati creati altri gruppi...di nuovo.., per il progetto "Bella Piazza" legato a Garibaldi.
 Io faccio parte del gruppo "Superficie". Esso si occuperà delle parti legate ai cambiamenti della superficie attraverso varie tematiche.
 
 5/3/25
@@ -58,4 +58,4 @@ Ad esempio, il presunto personaggio che si muove per la piazza se ipotizziamo ch
 Ovviamente il suono varierà in base al suo raggio di distanza.
 
 3/4/25
-Siamo scesi in piazza per registrare nuovi suoni.
+Siamo scesi in piazza per registrare nuovi suoni. Probabilmente saranno inseriti all'interno del videogioco.
